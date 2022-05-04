@@ -18,7 +18,6 @@ namespace Monitor
         FileSystemWatcher fsw;
         bool isProcesing = false;
 
-
         public MonitorForm()
         {
             InitializeComponent();
@@ -58,7 +57,6 @@ namespace Monitor
         #region Button for Monitorisig the folder
         private void btnSearch_Click(object sender, EventArgs e)
         {
-
             if (isProcesing) {
                 isProcesing = false;
                 btnSearch.Text = "Start monitoring files";
@@ -193,13 +191,9 @@ namespace Monitor
                 try
                 {
                     string ruta_plantilla = f;
-
                     string ruta_archivo_final = pathFolderProcessing + "\\Master.xls";
-                    
                     Excel.Workbook wbSource = excel.Workbooks.Open(ruta_plantilla, 0, false, 1, "", "", false, Excel.XlPlatform.xlWindows, 9, true, false, 0, true, false, false);
-                    
                     Excel.Workbook wbDestination = excel.Workbooks.Open(ruta_archivo_final, 0, false, 1, "", "", false, Excel.XlPlatform.xlWindows, 9, true, false, 0, true, false, false);
-                    
                     int cantHojasPlantilla = wbSource.Sheets.Count; //wbDestination.Sheets.Count;
                     Console.Write(ruta_plantilla + " have " + cantHojasPlantilla + " sheets");
                     int cantHojasFinal = wbDestination.Sheets.Count; //wbDestination.Sheets.Count;
