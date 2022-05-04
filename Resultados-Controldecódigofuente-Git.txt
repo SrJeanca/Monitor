@@ -1,0 +1,24 @@
+﻿Se ha creado un nuevo repositorio Git en C:\Users\jeanc\documents\visual studio 2015\Projects\Monitor.
+Repositorios de apertura:
+C:\Users\jeanc\documents\visual studio 2015\Projects\Monitor
+Archivo omitido: C:\Users\jeanc\documents\visual studio 2015\Projects\Monitor\Monitor\bin\Debug\Monitor.exe
+Archivo omitido: C:\Users\jeanc\documents\visual studio 2015\Projects\Monitor\Monitor\bin\Debug\Monitor.exe.config
+Archivo omitido: C:\Users\jeanc\documents\visual studio 2015\Projects\Monitor\Monitor\bin\Debug\Monitor.pdb
+Archivo omitido: C:\Users\jeanc\documents\visual studio 2015\Projects\Monitor\Monitor\bin\Debug\Monitor.vshost.exe
+Archivo omitido: C:\Users\jeanc\documents\visual studio 2015\Projects\Monitor\Monitor\bin\Debug\Monitor.vshost.exe.config
+Archivo omitido: C:\Users\jeanc\documents\visual studio 2015\Projects\Monitor\Monitor\bin\Debug\Monitor.vshost.exe.manifest
+Archivo omitido: C:\Users\jeanc\documents\visual studio 2015\Projects\Monitor\Monitor\obj\Debug\DesignTimeResolveAssemblyReferences.cache
+Archivo omitido: C:\Users\jeanc\documents\visual studio 2015\Projects\Monitor\Monitor\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Archivo omitido: C:\Users\jeanc\documents\visual studio 2015\Projects\Monitor\Monitor\obj\Debug\Monitor.csproj.FileListAbsolute.txt
+Archivo omitido: C:\Users\jeanc\documents\visual studio 2015\Projects\Monitor\Monitor\obj\Debug\Monitor.csproj.GenerateResource.Cache
+Archivo omitido: C:\Users\jeanc\documents\visual studio 2015\Projects\Monitor\Monitor\obj\Debug\Monitor.csproj.ResolveComReference.cache
+Archivo omitido: C:\Users\jeanc\documents\visual studio 2015\Projects\Monitor\Monitor\obj\Debug\Monitor.exe
+Archivo omitido: C:\Users\jeanc\documents\visual studio 2015\Projects\Monitor\Monitor\obj\Debug\Monitor.MonitorForm.resources
+Archivo omitido: C:\Users\jeanc\documents\visual studio 2015\Projects\Monitor\Monitor\obj\Debug\Monitor.pdb
+Archivo omitido: C:\Users\jeanc\documents\visual studio 2015\Projects\Monitor\Monitor\obj\Debug\Monitor.Properties.Resources.resources
+Archivo omitido: C:\Users\jeanc\documents\visual studio 2015\Projects\Monitor\Monitor\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Archivo omitido: C:\Users\jeanc\documents\visual studio 2015\Projects\Monitor\Monitor\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Archivo omitido: C:\Users\jeanc\documents\visual studio 2015\Projects\Monitor\Monitor\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Se creó la confirmación f12585e5 localmente en el repositorio C:\Users\jeanc\documents\visual studio 2015\Projects\Monitor
+Se produjo un error al publicar la rama en el repositorio remoto: El código de estado de la respuesta no indica un resultado correcto: 401 (Authorization Required).
+Se produjo un error al publicar la rama en el repositorio remoto: El código de estado de la respuesta no indica un resultado correcto: 401 (Authorization Required).
